@@ -1,0 +1,10 @@
+{
+  "name": "com.yuya_hatano.specter-tick-core",
+  "version": "0.1.0",
+  "displayName": "SPECTER//TICK Core",
+  "description": "Unity-independent grid puzzle core for SPECTER//TICK: recording, playback, switches, doors, stage validation, and EditMode tests.",
+  "unity": "6000.3",
+  "author": {
+    "name": "yuya_hatano"
+  }
+}
