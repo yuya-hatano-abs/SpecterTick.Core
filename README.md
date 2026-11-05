@@ -1,5 +1,8 @@
 # SPECTER//TICK Core (`com.yuya_hatano.specter-tick-core`)
 
+ゲーム本体 [SpecterTick](https://github.com/yuya-hatano-abs/SpecterTick) 用の **Unity 非依存**ロジック（記録・再生・スイッチ/ドア・ステージ検証）UPM パッケージです。  
+[SpecterTick](https://github.com/yuya-hatano-abs/SpecterTick) とあわせ、**AI 協働開発の実験**の一部として公開しています（役割分担はゲーム側 [README](https://github.com/yuya-hatano-abs/SpecterTick#ai協働開発について) を参照）。
+
 Unity-independent grid puzzle core for **SPECTER//TICK**: command recording and playback, switches and doors, stage validation, and EditMode unit tests.
 
 ## Install (local path)
@@ -15,7 +18,7 @@ Adjust the `file:` path relative to the game's `Packages/` folder if your layout
 ## Install (Git URL)
 
 ```json
-"com.yuya_hatano.specter-tick-core": "<リポジトリ URL>.git#v0.1.0"
+"com.yuya_hatano.specter-tick-core": "https://github.com/yuya-hatano-abs/SpecterTick.Core.git#v0.1.0"
 ```
 
 Git URL install is not verified in this repository; validate in your environment before relying on it.
