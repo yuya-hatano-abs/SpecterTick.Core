@@ -18,7 +18,7 @@ Adjust the `file:` path relative to the game's `Packages/` folder if your layout
 ## Install (Git URL)
 
 ```json
-"com.yuya_hatano.specter-tick-core": "https://github.com/yuya-hatano-abs/SpecterTick.Core.git#v0.1.0"
+"com.yuya_hatano.specter-tick-core": "https://github.com/yuya-hatano-abs/SpecterTick.Core.git#v0.1.1"
 ```
 
 Git URL install is not verified in this repository; validate in your environment before relying on it.
